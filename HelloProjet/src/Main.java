@@ -6,7 +6,7 @@ public class Main {
     public void testHelloWrold() {
 
 
-private int age;
+int age;
 
     }
 }
