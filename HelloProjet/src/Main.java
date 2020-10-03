@@ -6,8 +6,10 @@ public class Main {
     public void testHelloWrold() {
 
 
-private int age;
+ int age;
 //github修改
+
+        //本地修改
 
     }
 }
